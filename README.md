@@ -19,7 +19,10 @@
 
 ---
 
-## About Me
+  </td>
+    <td width="35%" align="center">
+      <img src="cat.gif" width="220" alt="cat gif">
+    </td>
 
 ```bash
 haw@github ~> whoami
@@ -33,10 +36,6 @@ Building intelligent systems, software and automation.
     <td width="65%">
       
 ## About Me    
-  </td>
-    <td width="35%" align="center">
-      <img src="cat.gif" width="220" alt="cat gif">
-    </td>
 
 I'm an Artificial Intelligence student and Systems Analyst who enjoys building things that actually solve problems.
 
