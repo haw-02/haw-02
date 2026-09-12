@@ -10,10 +10,10 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hawerdgb">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:hawerdgb21@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 ## About Me
 
 ```bash
-haw@ai-lab ~> whoami
+haw@github ~> whoami
 Artificial Intelligence Student
 Systems Analyst
 Building intelligent systems, software and automation.
@@ -39,15 +39,17 @@ I'm currently focused on improving my skills in **AI engineering, deep learning 
 ## Tech Stack
 
 ```bash
-haw@ai-lab ~> languages_web
+haw@github ~> languages_web
 ```
 
 <p>
   <img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark" />
 </p>
 
+<sub>Python · JavaScript · HTML · CSS</sub>
+
 ```bash
-haw@ai-lab ~> ai_ml
+haw@github ~> ai_ml
 ```
 
 <p>
@@ -58,39 +60,39 @@ haw@ai-lab ~> ai_ml
   <img src="https://cdn.simpleicons.org/huggingface/FFD21E" width="48" height="48" title="Hugging Face"/>
 </p>
 
+<sub>PyTorch · OpenCV · scikit-learn · Hugging Face</sub>
+
 ```bash
-haw@ai-lab ~> data_bi
+haw@github ~> data_bi
 ```
 
 <p>
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" title="Pandas"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" title="NumPy"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" width="48" height="48" title="Microsoft SQL Server"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/powerbi/F2C811" width="48" height="48" title="Power BI"/>
 </p>
 
+<sub>Pandas · NumPy · SQL Server · Power BI · Microsoft Fabric</sub>
+
 ```bash
-haw@ai-lab ~> automation
+haw@github ~> automation
 ```
 
 <p>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/powerautomate/0066FF" width="48" height="48" title="Power Automate"/>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/microsoftsharepoint/038387" width="48" height="48" title="SharePoint"/>
 </p>
 
+<sub>n8n · Power Automate · SharePoint · Microsoft 365</sub>
+
 ```bash
-haw@ai-lab ~> integration_devops
+haw@github ~> integration_devops
 ```
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github&theme=dark" />
 </p>
+
+<sub>Webhooks · Docker · Git · GitHub</sub>
 
 ---
 
@@ -133,7 +135,7 @@ Exploratory data analysis and statistical study of student performance, includin
 ---
 
 ```bash
-haw@ai-lab ~> incoming_projects
+haw@github ~> incoming_projects
 ```
 
 More projects involving **demand forecasting, neuroevolution, intelligent agents and workflow automation** are being documented and added to GitHub.
@@ -172,7 +174,7 @@ More projects involving **demand forecasting, neuroevolution, intelligent agents
 ---
 
 ```bash
-haw@ai-lab ~> status
+haw@github ~> status
 learning · building · improving
 ```
 
