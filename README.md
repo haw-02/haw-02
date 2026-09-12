@@ -28,11 +28,24 @@ Systems Analyst
 Building intelligent systems, software and automation.
 ```
 
+<table>
+  <tr>
+    <td width="65%">
+      
+## About Me
+
 I'm an Artificial Intelligence student and Systems Analyst who enjoys building things that actually solve problems.
 
 My work sits between **machine learning, software and automation**. I've worked on projects involving computer vision, NLP, forecasting, intelligent agents and automated workflows using tools such as Python, PyTorch, n8n and Power Automate.
 
 I'm currently focused on improving my skills in **AI engineering, deep learning and software development** while continuing to build practical projects.
+
+   </td>
+    <td width="35%" align="center">
+      <img src="cat.gif" width="220" alt="cat gif">
+    </td>
+  </tr>
+</table>
 
 ---
 
