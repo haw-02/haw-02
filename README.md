@@ -16,3 +16,11 @@
     <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
+
+ ## About Me
+
+I'm an Artificial Intelligence student and Systems Analyst focused on building practical solutions with machine learning, software and automation.
+
+I enjoy working with Python, PyTorch, data and intelligent systems, from computer vision and NLP projects to workflow automation and business-oriented tools.
+
+I'm especially interested in AI engineering, machine learning and developing systems that turn models and data into useful real-world applications.
