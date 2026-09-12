@@ -24,18 +24,11 @@
       <img src="cat.gif" width="220" alt="cat gif">
     </td>
 
-```bash
-haw@github ~> whoami
-Artificial Intelligence Student
-Systems Analyst
-Building intelligent systems, software and automation.
-```
-
-
   <tr>
     <td width="65%">
       
 ## About Me    
+
 
 I'm an Artificial Intelligence student and Systems Analyst who enjoys building things that actually solve problems.
 
