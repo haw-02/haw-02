@@ -1,16 +1,18 @@
-## Hi there 👋
+<div align="center">
+  <img src="header.gif" width="100%" alt="Hawerd Gutierrez GitHub Header">
+</div>
 
-<!--
-**haw-02/haw-02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hawerd Gutiérrez</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  AI & Machine Learning · Software · Automation
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/hawerdgb">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin">
+  </a>
+  <a href="mailto:hawerdgb21@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
