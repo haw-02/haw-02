@@ -28,7 +28,7 @@ Systems Analyst
 Building intelligent systems, software and automation.
 ```
 
-<table>
+
   <tr>
     <td width="65%">
       
@@ -45,7 +45,7 @@ I'm currently focused on improving my skills in **AI engineering, deep learning 
       <img src="cat.gif" width="220" alt="cat gif">
     </td>
   </tr>
-</table>
+
 
 ---
 
