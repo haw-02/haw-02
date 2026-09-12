@@ -76,6 +76,11 @@ haw@github ~> data_bi
   <img src="https://cdn.simpleicons.org/pandas/150458" width="48" height="48" title="Pandas"/>
   &nbsp;
   <img src="https://cdn.simpleicons.org/numpy/013243" width="48" height="48" title="NumPy"/>
+  &nbsp;
+  <img src="assets/icons/microsoft-sql-server.png" width="48" height="48" title="Microsoft SQL Server"/>
+</p>
+
+<sub>Pandas · NumPy · SQL Server · Power BI · Microsoft Fabric</sub>
 </p>
 
 <sub>Pandas · NumPy · SQL Server · Power BI · Microsoft Fabric</sub>
@@ -86,6 +91,10 @@ haw@github ~> automation
 
 <p>
   <img src="https://cdn.simpleicons.org/n8n/EA4B71" width="48" height="48" title="n8n"/>
+  &nbsp;
+  <img src="assets/icons/microsoft-power-automate.png" width="48" height="48" title="Power Automate"/>
+  &nbsp;
+  <img src="assets/icons/microsoft-sharepoint.png" width="48" height="48" title="SharePoint"/>
 </p>
 
 <sub>n8n · Power Automate · SharePoint · Microsoft 365</sub>
