@@ -19,13 +19,7 @@
 
 ---
 
-  </td>
-    <td width="35%" align="center">
-      <img src="cat.gif" width="220" alt="cat gif">
-    </td>
 
-  <tr>
-    <td width="65%">
 
 ## About Me
 
